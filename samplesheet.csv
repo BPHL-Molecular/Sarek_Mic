@@ -1,0 +1,2 @@
+patient,sample,lane,fastq_1, fastq_2
+ID1,GA232193,lane_1,/blue/bphl-florida/dongyibo/nf-core/sarek3/data/JMV22000758_1.fastq.gz,/blue/bphl-florida/dongyibo/nf-core/sarek3/data/JMV22000758_2.fastq.gz
