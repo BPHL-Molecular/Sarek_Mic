@@ -1,0 +1,18 @@
+
+input: './samplesheet.csv'
+outdir: './results/'
+#genome: 'null'
+tools: 'mpileup,haplotypecaller,freebayes,strelka,snpeff,vep'
+skip_tools: 'baserecalibrator,baserecalibrator_report,dnascope_filter'
+#step: 'annotate'
+igenomes_ignore: 'true'
+snpeff_cache: '/blue/bphl-florida/dongyibo/nf-core/sarek3/data/snpeff_cache'
+snpeff_db: 'MN908947.3'
+vep_cache: '/blue/bphl-florida/dongyibo/nf-core/sarek3/data/vep_cache'
+vep_species: 'sars_cov_2'
+vep_genome: 'ASM985889v3'
+vep_cache_version: '101'
+
+fasta: '/blue/bphl-florida/dongyibo/nf-core/sarek3/data/reference/covid/nCoV-2019.reference.fasta'
+fasta_fai: '/blue/bphl-florida/dongyibo/nf-core/sarek3/data/reference/covid/nCoV-2019.reference.fasta.fai'
+only_paired_variant_calling: 'true'

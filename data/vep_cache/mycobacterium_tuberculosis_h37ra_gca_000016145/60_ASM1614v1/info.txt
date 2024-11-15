@@ -1,0 +1,6 @@
+species	mycobacterium_tuberculosis_h37ra_gca_000016145
+assembly	ASM1614v1
+sift	
+polyphen	
+source_assembly	ASM1614v1
+source_genebuild	2022-12-Prokka

@@ -1,0 +1,2 @@
+patient,sample,variantcaller,vcf
+ID1,bc2085,mpileup,/blue/bphl-florida/dongyibo/nf-core/sarek3/data/bc2085bc2085.variants_bcftools.vcf

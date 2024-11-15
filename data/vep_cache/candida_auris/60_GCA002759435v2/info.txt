@@ -1,0 +1,6 @@
+species	candida_auris
+assembly	GCA002759435v2
+sift	
+polyphen	
+source_genebuild	2017-11-15
+source_assembly	GCA002759435v2
