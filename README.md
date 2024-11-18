@@ -1,6 +1,6 @@
 # Sarek_Mic
 ## What to do
-A modified version of Sarek specifically for microorganisms. It uses multiple popular tools for SNP calling and annotation of microbial genomes.
+A modified version of Sarek (https://github.com/nf-core/sarek/tree/master) specifically for microorganisms. It uses multiple popular tools for SNP calling and annotation of microbial genomes.
 
 
 ![sarek-mic flow chart](https://github.com/user-attachments/assets/490711ed-fd33-4178-abad-966383e55ab6)
@@ -32,3 +32,4 @@ sbatch ./sbatch.sh
 ## What microorganisms can be analyzed by Sarek_Mic?
 Any microorganism can be analyzed.      
 Currently, only the reference genomes of *Candida auris, Mycobacterium tuberculosis*, and *SARS-CoV-2* are installed in the pipeline. If you want to analyze other microorganisms, please install the corresponding reference genome yourself, or send an email to us (yibo.dong@flhealth.gov). We may update the corresponding reference genome for you.
+
