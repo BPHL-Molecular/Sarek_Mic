@@ -1,4 +1,5 @@
 # Sarek_Mic
+## What to do
 A modified version of Sarek specifically for microorganisms. It uses multiple popular tools for SNP calling and annotation of microbial genomes.
 
 
