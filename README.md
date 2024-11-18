@@ -6,4 +6,7 @@ A modified version of Sarek specifically for microorganisms. It uses multiple po
 ![sarek-mic flow chart](https://github.com/user-attachments/assets/490711ed-fd33-4178-abad-966383e55ab6)
 
 ## Prerequisites
-1. nf-core:       https://nf-co.re/docs/nf-core-tools/installation
+1. nf-core:
+   https://nf-co.re/docs/nf-core-tools/installation
+2. nextflow:
+   https://nf-co.re/docs/usage/getting_started/installation
