@@ -10,6 +10,11 @@ A modified version of **Sarek** (https://github.com/nf-core/sarek/tree/master) s
    https://nf-co.re/docs/nf-core-tools/installation
 2. nextflow:
    https://nf-co.re/docs/usage/getting_started/installation
+## Recommended environment installation and activation
+```bash
+conda create --name nf-core python=3.12 nf-core nextflow
+conda activate nf-core
+```
 ## How to run
 ### Unzip sarek.tar.gz
 ```bash
