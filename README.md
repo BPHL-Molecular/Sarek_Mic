@@ -40,5 +40,5 @@ sbatch ./sbatch.sh
 ```
 ## What microorganisms can be analyzed by Sarek_Mic?
 Any microorganism can be analyzed.      
-Currently, only the reference genomes of *Candida auris, Mycobacterium tuberculosis*, and *SARS-CoV-2* are installed in the pipeline. If you want to analyze other microorganisms, please install the corresponding reference genome yourself, or send an email to us (yibo.dong@flhealth.gov). We may update the corresponding reference genome for you.
+Currently, only the reference genomes of *Candida auris, Mycobacterium tuberculosis*, and *SARS-CoV-2* are installed in the pipeline. If you want to analyze other microorganisms, please install the corresponding reference genome yourself, or open a new issue in the GitHub. We may update the corresponding reference genome for you.
 
