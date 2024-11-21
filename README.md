@@ -11,7 +11,11 @@ A modified version of **Sarek** (https://github.com/nf-core/sarek/tree/master) s
 2. nextflow:
    https://nf-co.re/docs/usage/getting_started/installation
 ## How to run
-
+### Unzip sarek.tar.gz
+```bash
+tar xvzf sarek.tar.gz
+```
+The folder "sarek" should be in the same directory with README.md, sbatch.sh, etc.
 ### OPtion1: SNP calling and annotation
 1. Copy paired-end fastq files into the directory /data. 
 2. Open the file "samplesheet.csv", and fill in the information of your samples. Each sample is in a line.
